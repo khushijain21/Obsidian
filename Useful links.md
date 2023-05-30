@@ -33,6 +33,7 @@
 - Cassandra lightweight transactions https://www.beyondthelines.net/databases/cassandra-lightweight-transactions/
 - Observability stack info by CNCF - https://github.com/cncf/tag-observability/blob/main/whitepaper.md
 - Exemplars: https://grafana.com/docs/grafana/latest/fundamentals/exemplars/
+- SAGA design pattern https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/saga/saga
 CRONJOB
 
 [https://repo3.cci.nokia.net/ui/native/csf-helm-incubator/](https://repo3.cci.nokia.net/ui/native/csf-helm-incubator/ "https://repo3.cci.nokia.net/ui/native/csf-helm-incubator/") - helm incubator

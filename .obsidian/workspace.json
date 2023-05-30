@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "62e1b106b0a41a65",
+        "id": "fc691ea3aacba2a4",
         "type": "tabs",
         "children": [
           {
-            "id": "7e90171f842e953a",
+            "id": "078dc1f57fdc8ec5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grafana contri.md",
+                "file": "Video 9 -.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bfe684a853e86ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distributed systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c488982102651c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HBP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,12 +89,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "5ca8cb9bc887c470",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1d70ccd9b09164d1",
@@ -85,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grafana contri.md",
+                "file": "HBP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grafana contri.md",
+                "file": "HBP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grafana contri.md"
+                "file": "HBP.md"
               }
             }
           }
@@ -143,11 +177,47 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e90171f842e953a",
+  "active": "9c488982102651c9",
   "lastOpenFiles": [
-    "Blog.md"
+    "Grafana - no secret key (CSFS).md",
+    "Buffer.md",
+    "Grafana OSS tickets.md",
+    "Useful links.md",
+    "Grafana.md",
+    "HBP.md",
+    "Grafana contri.md",
+    "Pasted image 20230522171627.png",
+    "Kubernetes.md",
+    "Distributed systems.md",
+    "Video 9 -.md",
+    "Video 10 - Gen3GPPXML.md",
+    "Video 11.md",
+    "Internal Server Error.md",
+    "Javascript useful links.md",
+    "Birds.md",
+    "Alerting - review mobile screens.md",
+    "Cert Manager.md",
+    "Pasted image 20230511113015.png",
+    "Pasted image 20230508145326.png",
+    "Pasted image 20230508145314.png",
+    "Pasted image 20230508145314 1.png",
+    "Pasted image 20230503110744.png",
+    "react.md",
+    "Pasted image 20230503110630.png",
+    "Pasted image 20230503105619.png",
+    "Pasted image 20230503105008.png",
+    "Pasted image 20230503104446.png",
+    "Blog.md",
+    "General Topics.md",
+    "GO.md",
+    "Helm3.md",
+    "PSP.md",
+    "Testing rest server after version upgrade (CSFOAM-14126).md",
+    "Update Strategy for cpro-grafana.md",
+    "Victoria Metrics.md"
   ]
 }
