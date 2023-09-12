@@ -81,9 +81,15 @@ To run Backend
 make run
 ```
 
+Git setup
 
-
+```
+git remote set-url origin <remote url>
+git remote add upstream https://github.com/grafana/grafana.git
+git fetch origin
+```
   
+
 
 
   

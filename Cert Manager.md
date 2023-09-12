@@ -3,3 +3,6 @@ When a website visitor tries to open a website, their web browser engages in a p
 
 All the data transferred between a user and a website for the rest of the session is encrypted using the session key — meaning that it’s transmitted via symmetric encryption. No intruder can access the session key without a private key. It’s this initial use of public key cryptography that makes it possible to exchange session keys to engage in symmetric encryption for the rest of the session. This process protects data transmissions between a website and its visitors.
 
+
+
+

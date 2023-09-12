@@ -12,6 +12,3 @@ certManager
 $ kubectl get secret --namespace khushi khu-cpro-grafana -o jsonpath="{.data.admin-password}" | base64 --decode ; echo
 
 How to set HA in grafana chart
-
-
-![[Pasted image 20230330115854.png]]
