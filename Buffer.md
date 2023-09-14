@@ -37,3 +37,6 @@ https://code.visualstudio.com/Docs/editor/editingevolved
 
 
 https://necolas.github.io/react-native-web/benchmarks/ - Benchmarks for styles in react   
+
+https://killercoda.com/playgrounds/scenario/kubernetes - kuberneted playground
+
