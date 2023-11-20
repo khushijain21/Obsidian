@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grafana contri.md",
+                "file": "Nokia Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grafana contri.md",
+                "file": "Nokia Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grafana contri.md",
+                "file": "Nokia Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grafana contri.md"
+                "file": "Nokia Setup.md"
               }
             }
           },
@@ -190,9 +190,11 @@
   },
   "active": "40d21c5086cb78f7",
   "lastOpenFiles": [
+    "Nokia Week 2.md",
+    "Nokia Setup.md",
+    "Grafana contri.md",
     "Buffer.md",
     "Useful links.md",
-    "Grafana contri.md",
     "Grafana.md",
     "Grafana OSS tickets.md",
     "Untitled 2.md",
@@ -210,7 +212,6 @@
     "Untitled 1.md",
     "Pasted image 20231110155419.png",
     "Pasted image 20231110154536.png",
-    "Nokia Setup.md",
     "Pasted image 20231020181333.png",
     "About.md",
     "Pasted image 20231013155641.png",
@@ -223,7 +224,6 @@
     "SRE articles.md",
     "Video 9 -.md",
     "Distributed systems.md",
-    "Nokia Week 2.md",
     "Grafana - no secret key (CSFS).md",
     "Kubernetes.md"
   ]
