@@ -17,9 +17,9 @@ $ sudo apt-get upgrade
 
 $ sudo apt-get install golang-go
 
-wget https://go.dev/dl/go1.20.3.linux-amd64.tar.gz
+wget https://go.dev/dl/go1.21.3.linux-amd64.tar.gz
 
-sudo tar -xvf go1.20.3.linux-amd64.tar.gz 
+sudo tar -xvf go1.21.3.linux-amd64.tar.gz 
 
 sudo mv go /usr/local
 

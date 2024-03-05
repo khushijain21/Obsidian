@@ -19,3 +19,4 @@ export KUBECONFIG=/home/assb/.kube/ncm/config
 [https://gitlabe2.ext.net.nokia.com/csf/csfp/helm-unit-tests](https://gitlabe2.ext.net.nokia.com/csf/csfp/helm-unit-tests "https://gitlabe2.ext.net.nokia.com/csf/csfp/helm-unit-tests")
 
 
+curl_options=${insert_curl_opts_p[@]}

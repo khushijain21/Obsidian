@@ -16,17 +16,11 @@ https://mattionline.de/grafana-api-export-graph-as-png/
 
 glsa_bbv81N2d4RZ1F6dk9zRIqrmouhtormGe_ded32fb5
 
+glsa_HmEl48wbFhIUitD0v9xI2RIp6KtSdufM_02cc661f
+
+glsa_1eYZc03KVPPSJICr0Sc8FlY3G557T8I6_f6f264c7
 
 curl -u "admin:admin" -k -H "Authorization: Bearer glsa_bbv81N2d4RZ1F6dk9zRIqrmouhtormGe_ded32fb5" 'http://localhost:49153/d/c1804463-cfd7-48f4-9540-40c84499628f/new-dashboard?orgId=1&from=1695105372330&to=1695126972331&viewPanel=4' -o check2.png
-
-
-
-
-for requests sent to 6 panels at once 
-![[Pasted image 20230920093228.png]]
-
-
-![[Pasted image 20230920101826.png]]
 
 
 vegat jmeter k6
@@ -67,6 +61,134 @@ Helm UT
 - Dockerizing a nodeJS application https://nodejs.org/en/docs/guides/nodejs-docker-webapp
 
 
-https://davisonpro.medium.com/securing-node-js-apps-with-ssl-tls-b3570dbf84a5
+To install grafana Image renderer using docker-compose
+
+```
+version: '2'
+
+services:
+  grafana:
+    image: grafana/grafana:latest
+    ports:
+      - '3000:3000'
+    environment:
+      GF_RENDERING_SERVER_URL: http://renderer:8081/render
+      GF_RENDERING_CALLBACK_URL: http://grafana:3000/
+      GF_LOG_FILTERS: rendering:debug
+  renderer:
+    image: grafana/grafana-image-renderer:latest
+    ports:
+      - 8081
+```
+
+Notes:
+- Grafana renders an image by making an HTTP request to the remote rendering service, which in turn renders the image and returns it back in the HTTP response to Grafana.
 
 
+https://grafana.com/docs/grafana/latest/setup-grafana/image-rendering/troubleshooting/#certificate-signed-by-internal-certificate-authorities
+
+
+
+
+
+
+
+Set up Mirror git for GIR
+	1. HTTPS support --> GIR
+	2. TAR file creation
+	3. Respective Pipeline
+		1. BDH (BDH script update )
+		2. Sonarqube 
+	4. random secret for auth token
+
+
+
+DEV Environment -
+- mirror git
+- rpm / tar files
+- docker image (image : study use rocky8 nano image )
+- docker pipeline
+- docker validations
+
+HTTPS support
+	GIR source code or configuration can be used to change protocol
+
+Configuration required for Grafana and GIR -->GIR and grafana integration
+
+Helm charts + HBP + HPA + TLS + Storage path + Sensitive data + Enable metrics(integration w/ prometheus)
+
+Automation Testcases discussion (Based on above points turnout)
+ - check open source CI pipelines 
+
+Documentation
+
+Note: Need confirmation if its required in BVNF or not
+
+https://stackoverflow.com/questions/24162350/requirehttps-vs-requiretls
+
+
+https://github.com/Davisonpro/nodejs-ssl/blob/master/index.js
+https://davisonpro.wordpress.com/tag/nodejs/
+
+
+as.csc.in@ingka.com
+
+
+
+
+
+
+
+
+Certificate Issues
+
+
+https://community.grafana.com/t/certificate-error-with-renderer-docker-image-and-https/74948
+
+```
+version: '2'
+
+  
+
+services:
+
+  grafana:
+
+    image: my-custom-grafana:latest
+
+    ports:
+
+      - '3000:3000'
+
+    environment:
+
+      GF_RENDERING_SERVER_URL: https://renderer:8081/render
+
+      GF_RENDERING_CALLBACK_URL: https://grafana:3000/
+
+      GF_LOG_FILTERS: rendering:debug
+
+  renderer:
+
+    image: grafana/grafana-image-renderer:dev-debian
+
+    ports:
+
+      - 8081
+
+    environment:
+
+      - GF_RENDERING_IGNORE_HTTPS_ERRORS= true
+
+      - IGNORE_HTTPS_ERROR= true
+
+      - GF_LOG_FILTERS= rendering:debug
+```
+
+
+glsa_L2AYB1MWNzTZSn4mxHkoNmld8BGKpQIl_6f36bfbc
+
+
+
+
+![[Pasted image 20240207095058.png]]

@@ -34,18 +34,11 @@
 - Observability stack info by CNCF - https://github.com/cncf/tag-observability/blob/main/whitepaper.md
 - Exemplars: https://grafana.com/docs/grafana/latest/fundamentals/exemplars/
 - SAGA design pattern https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/saga/saga
+- Kubernetes Architecture https://devopscube.com/kubernetes-architecture-explained/
 CRONJOB
 
 - Helm functions and pipelines https://helm.sh/docs/chart_template_guide/functions_and_pipelines/
 - Flow Control in HELM https://helm.sh/docs/chart_template_guide/control_structures/
-- 
-
-[https://repo3.cci.nokia.net/ui/native/csf-helm-incubator/](https://repo3.cci.nokia.net/ui/native/csf-helm-incubator/ "https://repo3.cci.nokia.net/ui/native/csf-helm-incubator/") - helm incubator
-
-[https://repo3.cci.nokia.net/ui/native/csf-helm-inprogress](https://repo3.cci.nokia.net/ui/native/csf-helm-inprogress "https://repo3.cci.nokia.net/ui/native/csf-helm-inprogress") - inprogress helm charts
-
-[https://repo3.cci.nokia.net/ui/native/csf-helm-stable/](https://repo3.cci.nokia.net/ui/native/csf-helm-stable/ "https://repo3.cci.nokia.net/ui/native/csf-helm-stable/") - stable
-
 
 
 
