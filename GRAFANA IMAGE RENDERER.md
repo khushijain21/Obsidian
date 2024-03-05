@@ -14,13 +14,7 @@ https://community.grafana.com/t/grafana-image-renderer-performance-tips/102612
 
 https://mattionline.de/grafana-api-export-graph-as-png/
 
-glsa_bbv81N2d4RZ1F6dk9zRIqrmouhtormGe_ded32fb5
 
-glsa_HmEl48wbFhIUitD0v9xI2RIp6KtSdufM_02cc661f
-
-glsa_1eYZc03KVPPSJICr0Sc8FlY3G557T8I6_f6f264c7
-
-curl -u "admin:admin" -k -H "Authorization: Bearer glsa_bbv81N2d4RZ1F6dk9zRIqrmouhtormGe_ded32fb5" 'http://localhost:49153/d/c1804463-cfd7-48f4-9540-40c84499628f/new-dashboard?orgId=1&from=1695105372330&to=1695126972331&viewPanel=4' -o check2.png
 
 
 vegat jmeter k6
