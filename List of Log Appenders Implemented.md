@@ -34,6 +34,8 @@
 | Ruby             |                       | Not Done                  |                                                                                                                                                                                                                       | Some popular libraries are - lograge, logging gem, log4r |
 
 
+##### To Do
+- Connect with Ruby & Swift SIG to know which libraries should be prioritized for bridge implementation
 ##### Questions?
-- should syslog libraries also extend log bridge API?
+- should language specific syslog libraries also extend log bridge API? And/or if this is supported
 
