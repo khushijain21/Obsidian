@@ -1,5 +1,7 @@
 
 
+#### List of Log Appenders Implemented
+
 | **Project Name** | **Logging Libraries** | **Status**                | **Docs/Implementation**                                                                                                                                                                                               | Note                                                     |
 | ---------------- | --------------------- | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | C++              | spdlog                | Experimental              | https://github.com/open-telemetry/opentelemetry-cpp-contrib/pull/357                                                                                                                                                  | under contrib repo                                       |
@@ -27,12 +29,11 @@
 |                  |                       |                           |                                                                                                                                                                                                                       |                                                          |
 | Erlang           |                       | In Progress/ Experimental | https://github.com/open-telemetry/opentelemetry-erlang/blob/main/apps/opentelemetry_experimental/src/otel_log_handler.erl                                                                                             |                                                          |
 |                  |                       |                           |                                                                                                                                                                                                                       |                                                          |
-| Rust             | Toki Tracing          | Done                      | https://github.com/open-telemetry/opentelemetry-rust/tree/main/opentelemetry-appender-tracing                                                                                                                         | as part of stable release<br><br>                        |
+| Rust             | tokio-tracing         | Done                      | https://github.com/open-telemetry/opentelemetry-rust/tree/main/opentelemetry-appender-tracing                                                                                                                         | as part of stable release<br><br>                        |
 |                  |                       |                           |                                                                                                                                                                                                                       |                                                          |
 | Ruby             |                       | Not Done                  |                                                                                                                                                                                                                       | Some popular libraries are - lograge, logging gem, log4r |
 
 
 ##### Questions?
 - should syslog libraries also extend log bridge API?
-- 
 

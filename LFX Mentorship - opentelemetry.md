@@ -20,6 +20,9 @@ https://github.com/open-telemetry/opentelemetry-go/blob/main/log/DESIGN.md#add-x
 
 https://opentelemetry.io/docs/specs/otel/logs/ - log specification
 Log Appenders will use Log Bridge API to export log in OTEL format
+
+
+
 ![[appender.png]]
 
 
