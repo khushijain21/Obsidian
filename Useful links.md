@@ -23,7 +23,7 @@
 
 - Getting started with jenkins -  https://devopscube.com/jenkins-2-tutorials-getting-started-guide/
 - Kubectl Aliases - [Fun with kubectl aliases (ahmet.im)](https://ahmet.im/blog/kubectl-aliases/)
-
+- https://stackoverflow.com/questions/51481803/kubectl-bash-completion-for-alias-with-options
 - Certificates, SSL, public/private key - https://sectigostore.com/blog/public-key-vs-private-key-how-do-they-work/
 - Ansible tutorial - https://www.golinuxcloud.com/ansible-tutorial/
 - distributed systems  reading material : https://dancres.github.io/Pages/
@@ -39,7 +39,5 @@ CRONJOB
 
 - Helm functions and pipelines https://helm.sh/docs/chart_template_guide/functions_and_pipelines/
 - Flow Control in HELM https://helm.sh/docs/chart_template_guide/control_structures/
-
-
 
 

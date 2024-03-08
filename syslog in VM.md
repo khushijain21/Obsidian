@@ -1,4 +1,6 @@
 
+https://www.atatus.com/blog/syslog-formats/ - syslog format 
+
 
 https://github.com/rsyslog/rsyslog/issues/2626
 
@@ -44,3 +46,12 @@ input(type="imtcp" port="514" )
 ```
 ./victoria-metrics --loggerOutput=syslog --syslog-address=localhost:514 --syslog.tlsCAFile="ca-syslog-cert.pem" --syslog-network=tcp+tls
 ```
+
+
+
+- Add facility input
+- move syslog logic to syslog lib
+
+![[Pasted image 20240308152543.png]]
+
+

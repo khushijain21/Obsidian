@@ -6,6 +6,7 @@
 `apt install rsyslog`
 
 2. Create certificates
+
 ```
 openssl genrsa -out ca.key 2048
 

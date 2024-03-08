@@ -14,13 +14,12 @@ https://github.com/open-telemetry/community/issues/1865#issuecomment-1913132738 
 
 IMP** - https://github.com/open-telemetry/opentelemetry-go/blob/main/log/DESIGN.md#add-xyz-method-to-logger  - logs bridge API deign document
 
-
-https://github.com/open-telemetry/opentelemetry-go/blob/main/log/DESIGN.md#add-xyz-method-to-logger - golang design for log bridge API
-
-
 https://opentelemetry.io/docs/specs/otel/logs/ - log specification
 Log Appenders will use Log Bridge API to export log in OTEL format
 
+https://github.com/open-telemetry/opentelemetry-specification/issues/3917 - add an enabled method to the logger
+
+https://github.com/golang/example/blob/master/slog-handler-guide/README.md  - guide to writing slog handler
 
 
 ![[appender.png]]
