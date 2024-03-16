@@ -26,6 +26,14 @@ shopt -s histappend
 PROMPT_COMMAND="history -a;history -c;history -r;$PROMPT_COMMAND"
 ```
 
+```bash
+bindkey '^[[1;5C' forward-word
+```bash
+bindkey '^[[1;5D' backward-word
+```
+
+
+```
 
 
 VS CODE shortcuts

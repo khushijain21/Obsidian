@@ -36,14 +36,11 @@ https://www.digitalocean.com/community/tutorials/how-to-use-the-flag-package-in-
 
 https://www.digitalocean.com/community/tutorials/how-to-use-interfaces-in-go - how to use interfaces in go
 
+https://www.digitalocean.com/community/conceptual-articles/understanding-pointers-in-go  - pointers in go
 
 https://medium.com/eureka-engineering/understanding-allocations-in-go-stack-heap-memory-9a2631b5035d - understanding variable allocation on stack and heap
 
-
 https://betterprogramming.pub/memory-optimization-and-garbage-collector-management-in-go-71da4612a960 - garbage collector
-
 
 https://golangforall.com/en/post/dependency-injection.html  - dependency injection
 
-
-otel-maintainer

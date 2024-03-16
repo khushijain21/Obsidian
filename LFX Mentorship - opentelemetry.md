@@ -22,6 +22,13 @@ https://github.com/open-telemetry/opentelemetry-specification/issues/3917 - add 
 https://github.com/golang/example/blob/master/slog-handler-guide/README.md  - guide to writing slog handler
 
 
+https://github.com/open-telemetry/opentelemetry-specification/blob/main/specification/logs/sdk.md - log api from sdk
+
+![[Pasted image 20240309164013.png]]
+
+
+
+
 ![[appender.png]]
 
 

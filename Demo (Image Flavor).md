@@ -23,23 +23,23 @@ tag: 9.8.7-989898 (Flavor should not be part of the tag)
 
 
 
-| Container Name                     | Supported Image Flavors | can be configured under |
-| ---------------------------------- | ----------------------- | ----------------------- |
-| InitContainer(for all workloads)   | rocky8-python3.8        | initConfigFile          |
-| cmreload                           | distroless            | configmapReload         |
-| util                               | rocky8-python3.8        | cproUtil                |
-| fluentd                            | rocky8-jre17            | fluentd                 |
-| file-validator                     | distroless              | certManagerConfig       |
-| monitoringContainer (under server) | rocky8-python3.8        | monitoringContainer     |
-| server (main container)            | distroless              | server                  |
-| alertmanager (main container)      | distroless              | alertmanager            |
-| restserver (main container)        | distroless-jre17        | restserver              |
-| kube-state-metrics                 | distroless              | kubeStateMetrics        |
-| node-exporter                      | distroless              | nodeExporter            |
-| webhook4fluentd                    | distroless              | webhook4fluentd         |
-| pushgateway                        | distroless              | pushgateway             |
-| restapi-test,       check-startup  | rocky8-python3.8        | helmtest                |
-| All Hooks and migrate/ pre and post upgrade jobs                         | rocky8 (nano)           | helmDeleteImage         |
+| Container Name                                   | Supported Image Flavors | can be configured under |
+| ------------------------------------------------ | ----------------------- | ----------------------- |
+| InitContainer(for all workloads)                 | rocky8-python3.8        | initConfigFile          |
+| cmreload                                         | distroless              | configmapReload         |
+| util                                             | rocky8-python3.8        | cproUtil                |
+| fluentd                                          | rocky8-jre17            | fluentd                 |
+| file-validator                                   | distroless              | certManagerConfig       |
+| monitoringContainer (under server)               | rocky8-python3.8        | monitoringContainer     |
+| server (main container)                          | distroless              | server                  |
+| alertmanager (main container)                    | distroless              | alertmanager            |
+| restserver (main container)                      | distroless-jre17        | restserver              |
+| kube-state-metrics                               | distroless              | kubeStateMetrics        |
+| node-exporter                                    | distroless              | nodeExporter            |
+| webhook4fluentd                                  | distroless              | webhook4fluentd         |
+| pushgateway                                      | distroless              | pushgateway             |
+| restapi-test,       check-startup                | rocky8-python3.8        | helmtest                |
+| All Hooks and migrate/ pre and post upgrade jobs | rocky8 (nano)           | helmDeleteImage         |
 
 
 Scenarios Tested (CPRO)

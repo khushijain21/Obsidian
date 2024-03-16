@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48cdacee4c361752",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1 - LFX Opentelemetry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "435a59be1fcde79a",
             "type": "leaf",
             "state": {
@@ -32,18 +20,31 @@
             }
           },
           {
-            "id": "d7b6eedbb08a4835",
+            "id": "030203a9e99f49ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful links.md",
+                "file": "Week 2 - LFX mentorship.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "feddbe9d41a60d77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HBP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "upstream",
+                "query": "alertmanager",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1 - LFX Opentelemetry.md",
+                "file": "Week 2 - LFX mentorship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 1 - LFX Opentelemetry.md",
+                "file": "Week 2 - LFX mentorship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1 - LFX Opentelemetry.md"
+                "file": "Week 2 - LFX mentorship.md"
               }
             }
           },
@@ -202,23 +203,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "48cdacee4c361752",
+  "active": "030203a9e99f49ae",
   "lastOpenFiles": [
+    "Week2 - LFX Mentorship.md",
+    "Week 2 - LFX mentorship.md",
     "LFX Mentorship - opentelemetry.md",
-    "Zap.md",
-    "Week 1 - LFX Opentelemetry.md",
-    "chaos mesh.md",
+    "HBP.md",
+    "Demo (Image Flavor).md",
+    "GO.md",
+    "Grafana contri.md",
+    "Buffer.md",
     "Useful links.md",
+    "minikube automation.md",
+    "Week 1 - LFX Opentelemetry.md",
+    "Pasted image 20240309164013.png",
+    "Zap.md",
+    "chaos mesh.md",
     "How to setup syslog server in TLS mode (locally).md",
     "syslog in VM.md",
     "Pasted image 20240308152543.png",
-    "Grafana contri.md",
     "List of Log Appenders Implemented.md",
     "2024-03-07.md",
-    "minikube automation.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "GO.md",
     "appender.png",
     "Nov Release.md",
     "beyla.md",
@@ -227,11 +234,6 @@
     "How to bring up Grafana in HTTPS and Grafana Image Renderer service in HTTP mode.md",
     "ebpf.md",
     "Video 4&5.md",
-    "GRAFANA IMAGE RENDERER.md",
-    "Nokia OSI.md",
-    "Untitled.md",
-    "Grafana & VM OSS tickets.md",
-    "vmctl.md",
     "Pasted image 20240221170025.png",
     "Untitled.canvas",
     "Pasted image 20240214114103.png",
@@ -239,7 +241,6 @@
     "Pasted image 20240130150359.png",
     "Pasted image 20240130150344.png",
     "Pasted image 20240103115432.png",
-    "Pasted image 20231213111839.png",
-    "Pasted image 20231211131005.png"
+    "Pasted image 20231213111839.png"
   ]
 }
