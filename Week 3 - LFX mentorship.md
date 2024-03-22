@@ -1,5 +1,5 @@
 
-Completed: 
+What was achieved:
 1. Zapcore bridge
 - Worked on Object and array encoder 
 - Implemented Enabled and Check method on zapcore
