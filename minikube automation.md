@@ -1,10 +1,12 @@
 
+-- main link
+https://confluence-app.ext.net.nokia.com/display/CSFDEV/MiniKube+@CSF
+
 minikube delete  
 minikube config set memory 6144    --> to keep your WSL stable  
 minikube config set cpus 3 -->  to keep your WSL stable..    
 minikube start \ 
   --kubernetes-version=v1.27.11 \  
-  --nodes=3 \  
   --registry-mirror=[https://registry1-docker-io.repo.cci.nokia.net](https://registry1-docker-io.repo.cci.nokia.net "https://registry1-docker-io.repo.cci.nokia.net/") \  
   --registry-mirror=[https://quayio.repo.cci.nokia.net](https://quayio.repo.cci.nokia.net "https://quayio.repo.cci.nokia.net/") \  
   --registry-mirror=[https://gcr-io.repo.cci.nokia.net](https://gcr-io.repo.cci.nokia.net "https://gcr-io.repo.cci.nokia.net/") \  
@@ -23,3 +25,4 @@ helm repo update
 
 Install Ingress
 
+comment helm repo update

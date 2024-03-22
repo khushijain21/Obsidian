@@ -44,3 +44,6 @@ https://betterprogramming.pub/memory-optimization-and-garbage-collector-manageme
 
 https://golangforall.com/en/post/dependency-injection.html  - dependency injection
 
+good example of type adapter:
+
+![[Pasted image 20240318212736.png]]
