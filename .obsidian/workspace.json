@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1a2679d0de2372ee",
+            "id": "70fba0a375076d73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ruby.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d8af280fe65b5a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Influx DB - gf-form.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af7f4835138c1178",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1 - LFX Opentelemetry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b15c6e523cf94874",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 3 - LFX mentorship.md",
+                "file": "LFX/Week 4 - LFX Mentorship.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git remote",
+                "query": "git set origin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -132,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 3 - LFX mentorship.md",
+                "file": "LFX/Week 4 - LFX Mentorship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 3 - LFX mentorship.md",
+                "file": "LFX/Week 4 - LFX Mentorship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 3 - LFX mentorship.md"
+                "file": "LFX/Week 4 - LFX Mentorship.md"
               }
             }
           },
@@ -215,23 +177,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b15c6e523cf94874",
+  "active": "70fba0a375076d73",
   "lastOpenFiles": [
-    "Week 1 - LFX Opentelemetry.md",
-    "Week 3 - LFX mentorship.md",
-    "Influx DB - gf-form.md",
+    "LFX/Week 2 - LFX mentorship.md",
+    "LFX/Week 1 - LFX Opentelemetry.md",
+    "LFX/Week 4 - LFX Mentorship.md",
+    "GO.md",
+    "LFX/Week 3 - LFX mentorship.md",
+    "LFX Mentorship - opentelemetry.md",
+    "LFX",
+    "Grafana contri.md",
     "Ruby.md",
+    "Influx DB - gf-form.md",
+    "minikube automation.md",
+    "Nov Release.md",
+    "How to bring up Grafana in HTTPS and Grafana Image Renderer service in HTTP mode.md",
     "Pasted image 20240320165218.png",
     "Pasted image 20240320172622.png",
     "Pasted image 20240320134447.png",
-    "Untitled 3.md",
-    "GO.md",
-    "LFX Mentorship - opentelemetry.md",
-    "Grafana contri.md",
     "Pasted image 20240318212736.png",
     "djskd.md",
-    "minikube automation.md",
-    "Week 2 - LFX mentorship.md",
     "Week2 - LFX Mentorship.md",
     "HBP.md",
     "Demo (Image Flavor).md",
@@ -246,9 +211,7 @@
     "List of Log Appenders Implemented.md",
     "2024-03-07.md",
     "Untitled 2.md",
-    "Untitled 1.md",
     "appender.png",
-    "Nov Release.md",
     "Pasted image 20240221170025.png",
     "Untitled.canvas",
     "Pasted image 20240214114103.png",

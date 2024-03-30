@@ -1,4 +1,3 @@
-Related github Issue: https://github.com/open-telemetry/community/issues/1982
 
 Resources for Reading: 
 - Main documentation for Otel: [https://opentelemetry.io/docs/](https://opentelemetry.io/docs/)

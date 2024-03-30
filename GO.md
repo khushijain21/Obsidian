@@ -4,22 +4,6 @@
 
 ### Benchmarking
 
-Writing [benchmarks](https://golang.org/pkg/testing/#hdr-Benchmarks) in Go is another first-class feature of the language and it is very similar to writing tests.
-
-```go
-func BenchmarkRepeat(b *testing.B) {
-	for i := 0; i < b.N; i++ {
-		Repeat("a")
-	}
-}
-```
-
-
-```go
-go test ./...
-```
-
-
 
 What are contexts in go-lang: https://www.digitalocean.com/community/tutorials/how-to-run-multiple-functions-concurrently-in-go
 
@@ -44,6 +28,9 @@ https://betterprogramming.pub/memory-optimization-and-garbage-collector-manageme
 
 https://golangforall.com/en/post/dependency-injection.html  - dependency injection
 
+https://twin.sh/articles/50/performance-benchmarking-and-allocations-in-go - performance
 good example of type adapter:
+
+https://blog.allegro.tech/2017/07/golang-slices-gotcha.html  - why use shallow copying
 
 ![[Pasted image 20240318212736.png]]
