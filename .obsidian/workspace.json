@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LFX/Week6 - LFX Mentorship.md",
+                "file": "LFX/List of Log Appenders Implemented.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1d70ccd9b09164d1",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LFX/Week6 - LFX Mentorship.md",
+                "file": "LFX/List of Log Appenders Implemented.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LFX/Week6 - LFX Mentorship.md",
+                "file": "LFX/List of Log Appenders Implemented.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LFX/Week6 - LFX Mentorship.md"
+                "file": "LFX/List of Log Appenders Implemented.md"
               }
             }
           },
@@ -214,10 +213,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be42b21c06508a3e",
+  "active": "42f01b0dd339de28",
   "lastOpenFiles": [
-    "GO.md",
+    "LFX Mentorship - opentelemetry.md",
+    "LFX/List of Log Appenders Implemented.md",
     "LFX/Week6 - LFX Mentorship.md",
+    "GO.md",
     "LFX/Week 5 - LFX Mentorship.md",
     "LFX/Week 1 - LFX Opentelemetry.md",
     "LFX/Week 4 - LFX Mentorship.md",
@@ -243,8 +244,6 @@
     "CSFS tickets Sept.md",
     "Cover Letter for CNCF opentelemetry project.md",
     "chaos mesh.md",
-    "Cert Manager.md",
-    "Buffer.md",
     "appender.png",
     "LFX",
     "Pasted image 20240320165218.png",
