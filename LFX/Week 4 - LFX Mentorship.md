@@ -1,10 +1,10 @@
 What was achieved:
-1. Zapcore
+1. For Zapcore
 - Wrote Benchmarks for zapcore
 - Wrote Tests for Mapping zap severity to OTel
 - Explored ways to inject explicit context to zap
 
-2. Ruby
+2. For Ruby
 - PR to map logger severity to OTel's - https://github.com/kaylareopelle/opentelemetry-ruby-contrib/pull/2
 - Continued exploration of the language's nuances
 

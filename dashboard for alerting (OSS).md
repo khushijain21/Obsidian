@@ -2,7 +2,6 @@
 [https://grafana.com/grafana/dashboards/3489-grafana-alert-dashboard/](https://grafana.com/grafana/dashboards/3489-grafana-alert-dashboard/ "https://grafana.com/grafana/dashboards/3489-grafana-alert-dashboard/")
 
 
-
 Grafana Dashboard best practices: https://grafana.com/docs/grafana-cloud/visualizations/dashboards/build-dashboards/best-practices/
 
 

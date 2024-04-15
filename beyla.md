@@ -1,7 +1,7 @@
 
 https://ftp.belnet.be/mirror/FOSDEM/video/2024/ua2220/fosdem-2024-3499-implementing-distributed-traces-with-ebpf.av1.webm  - talk by mario and nikol
 
-https://grafana.com/docs/beyla/latest/configure/- beyla configuration options
+https://grafana.com/docs/beyla/latest/configure/ beyla configuration options
 
 https://grafana.com/docs/beyla/latest/tutorial/k8s-walkthrough/ - beyla and kubernetes walkthrough
 

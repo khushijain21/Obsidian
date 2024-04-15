@@ -1,11 +1,11 @@
 
 What was achieved:
-1. Zapcore bridge
+1. For Zapcore bridge
 - Worked on Object and array encoder 
 - Implemented Enabled and Check method on zapcore
 - Added more test cases
 
-2. Ruby - Learning resources consumed
+2. For Ruby - Learning resources consumed
 - Quick Start on Ruby - https://www.ruby-lang.org/en/documentation/quickstart/
 - Nested modules in ruby - https://www.writesoftwarewell.com/nested-modules-in-ruby/
 -  OOP's in ruby - https://dev.to/dumebii/a-beginners-guide-to-object-oriented-programming-oop-in-ruby-1cjc
