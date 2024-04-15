@@ -1,4 +1,5 @@
-- Worked on implementing Opennamespace functionality for zapcore. Updated tests and optimized code for memory. I think we can say that we have a good enough bridge ready.
+What was achieved: 
+- Worked on implementing Opennamespace functionality for zap bridge. Updated tests and optimized code for memory. I think we can say we have a good enough bridge ready.
 
 
 Learnings/Resources that were helpful:
