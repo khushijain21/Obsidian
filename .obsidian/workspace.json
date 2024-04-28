@@ -4,59 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "01215f25ba0ccb72",
+        "id": "5190c8a334b0a8fe",
         "type": "tabs",
         "children": [
           {
-            "id": "bfd53c0fc4c6c67a",
+            "id": "789f55da086de2da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LFX/Week 1 - LFX Opentelemetry.md",
+                "file": "LFX/Week8 - LFX Mentorship.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ad2ab0f192184422",
+            "id": "31deb9d5a7a6e2ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LFX/Week 5 - LFX Mentorship.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be42b21c06508a3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LFX/Week6 - LFX Mentorship.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7f59e20fed90ee2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GO.md",
+                "file": "Swift.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Workload",
+                "query": "redhat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LFX/Week6 - LFX Mentorship.md",
+                "file": "LFX/Week8 - LFX Mentorship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LFX/Week6 - LFX Mentorship.md",
+                "file": "LFX/Week8 - LFX Mentorship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LFX/Week6 - LFX Mentorship.md"
+                "file": "LFX/Week8 - LFX Mentorship.md"
               }
             }
           },
@@ -214,45 +189,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be42b21c06508a3e",
+  "active": "789f55da086de2da",
   "lastOpenFiles": [
-    "LFX/List of Log Appenders Implemented.md",
-    "LFX Mentorship - opentelemetry.md",
+    "Swift.md",
+    "LFX/Week8 - LFX Mentorship.md",
+    "Mobile Observability.md",
+    "HBP 3.9.0.md",
+    "Useful links.md",
+    "Getting started with OpenTelemetry.md",
+    "General Topics.md",
     "LFX/Week6 - LFX Mentorship.md",
-    "GO.md",
     "LFX/Week 5 - LFX Mentorship.md",
-    "LFX/Week 1 - LFX Opentelemetry.md",
     "LFX/Week 4 - LFX Mentorship.md",
-    "LFX/Week 2 - LFX mentorship.md",
     "LFX/Week 3 - LFX mentorship.md",
-    "Untitled 4.md",
-    "CSFID - 4295 (IPV6 VM).md",
+    "LFX/Week 2 - LFX mentorship.md",
+    "LFX/Week 1 - LFX Opentelemetry.md",
     "Grafana contri.md",
-    "Grafana Tests.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Buffer.md",
+    "Nokia Setup.md",
+    "Observability stack.md",
+    "Possible contri.md",
+    "Pivot Table.md",
+    "PSP.md",
+    "React & Svelte.md",
+    "resume.md",
     "Ruby.md",
-    "Zap.md",
-    "OOM Kill.md",
+    "SRE articles.md",
+    "vmbackup.md",
+    "Pasted image 20240417143616.png",
+    "Pasted image 20240417143548.png",
+    "Pasted image 20240417143524.png",
     "Pasted image 20240410171536.png",
     "Pasted image 20240410171526.png",
-    "Observability stack.md",
-    "Dimensioning for CPRO components.md",
-    "Untitled 3.md",
-    "beyla.md",
     "Pasted image 20240405113001.png",
-    "Demo (Image Flavor).md",
-    "Data-intensive applications.md",
-    "dashboard for alerting (OSS).md",
-    "CSFS tickets Sept.md",
-    "Cover Letter for CNCF opentelemetry project.md",
-    "chaos mesh.md",
     "appender.png",
     "LFX",
     "Pasted image 20240320165218.png",
     "Pasted image 20240320172622.png",
-    "Pasted image 20240320134447.png",
-    "Pasted image 20240318212736.png",
-    "Pasted image 20240309164013.png",
-    "Pasted image 20240308152543.png",
-    "Untitled.canvas"
+    "Pasted image 20240320134447.png"
   ]
 }

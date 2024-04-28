@@ -1,4 +1,6 @@
 
+Redeem Award- https://cloud.workhuman.com/microsites/t/il/nsn/order
+
 https://poanchen.github.io/blog/2017/11/12/How-to-create-a-GitHub-pull-request-with-a-specific-commits
 
 
@@ -33,7 +35,6 @@ bindkey '^[[1;5D' backward-word
 ```
 
 
-```
 
 
 VS CODE shortcuts
@@ -48,4 +49,6 @@ https://dev.to/nikhilkumaran/don-t-use-create-react-app-how-you-can-set-up-your-
 
 
 
+![[Pasted image 20240417143548.png]]
 
+![[Pasted image 20240417143616.png]]

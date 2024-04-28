@@ -1,4 +1,6 @@
 
+https://gist.github.com/kaylareopelle/76079747c1a7528449670b8bd1c78893  - gist to use ruby's built in logger with Otel instrumentation
+
 https://newrelic.com/sites/default/files/2022-03/melt-101-four-essential-telemetry-data-types.pdf  - newrelic
 
 https://ruby.github.io/play-ruby/ - Ruby playground

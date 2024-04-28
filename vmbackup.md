@@ -1,9 +1,7 @@
 https://github.com/VictoriaMetrics/VictoriaMetrics/blob/master/docs/vmbackup.md
 
-
 how to create openssl certificates
 https://stackoverflow.com/questions/64814173/how-do-i-use-sans-with-openssl-instead-of-common-name/66980106#66980106
-
 
 
 Vmbackup:  Provide client-side TLS configuration to create/delete snapshot

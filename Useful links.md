@@ -35,6 +35,8 @@
 - Exemplars: https://grafana.com/docs/grafana/latest/fundamentals/exemplars/
 - SAGA design pattern https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/saga/saga
 - Kubernetes Architecture https://devopscube.com/kubernetes-architecture-explained/
+- https://regexlearn.com/ - amazing website for regex
+- 
 CRONJOB
 
 - Helm functions and pipelines https://helm.sh/docs/chart_template_guide/functions_and_pipelines/
