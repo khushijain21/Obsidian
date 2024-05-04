@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"2e8a93d3802c9653","x":-420,"y":-220,"width":205,"height":110,"type":"text","text":"ebpf tracer"},
+		{"id":"711d90fd6414f367","x":-160,"y":-60,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"bab60782c89cc937","fromNode":"711d90fd6414f367","fromSide":"top","toNode":"2e8a93d3802c9653","toSide":"right","fromEnd":"arrow"}
+	]
+}

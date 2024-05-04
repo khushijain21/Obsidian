@@ -8,30 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "789f55da086de2da",
+            "id": "b192d3a8617bef68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LFX/Week8 - LFX Mentorship.md",
+                "file": "OneLog.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "31deb9d5a7a6e2ff",
+            "id": "a53315289e6461f0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-02 17.25.33.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "122d6f992e7a352e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Swift.md",
+                "file": "HBP 3.9.0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cc7ae0d33e72919",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LFX/Week 9 - LFX Mentorship.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -60,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "redhat",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LFX/Week8 - LFX Mentorship.md",
+                "file": "LFX/Week 9 - LFX Mentorship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LFX/Week8 - LFX Mentorship.md",
+                "file": "LFX/Week 9 - LFX Mentorship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LFX/Week8 - LFX Mentorship.md"
+                "file": "LFX/Week 9 - LFX Mentorship.md"
               }
             }
           },
@@ -186,17 +209,34 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "789f55da086de2da",
+  "active": "7cc7ae0d33e72919",
   "lastOpenFiles": [
-    "Swift.md",
-    "LFX/Week8 - LFX Mentorship.md",
-    "Mobile Observability.md",
+    "OOM Kill.md",
+    "LFX/Week 9 - LFX Mentorship.md",
+    "Demo (Image Flavor).md",
     "HBP 3.9.0.md",
-    "Useful links.md",
+    "OneLog.md",
+    "Logging with SwiftLog.md",
+    "Swift.md",
+    "Excalidraw/Drawing 2024-05-02 17.25.33.excalidraw.md",
+    "LFX/Week8 - LFX Mentorship.md",
+    "Excalidraw/Drawing 2024-05-01 12.54.49.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-29 15.54.59.excalidraw.md",
+    "Grafana & VM OSS tickets.md",
+    "Mobile Instrumentation.md",
+    "Pasted Image 20240429155632_773.png",
+    "Excalidraw",
+    "appender.png",
+    "Untitled.canvas",
     "Getting started with OpenTelemetry.md",
+    "Pasted image 20240429123607.png",
+    "Pasted image 20240429123514.png",
+    "Mobile Observability.md",
+    "Useful links.md",
     "General Topics.md",
     "LFX/Week6 - LFX Mentorship.md",
     "LFX/Week 5 - LFX Mentorship.md",
@@ -206,28 +246,13 @@
     "LFX/Week 1 - LFX Opentelemetry.md",
     "Grafana contri.md",
     "Untitled.md",
-    "Untitled.canvas",
     "Buffer.md",
-    "Nokia Setup.md",
-    "Observability stack.md",
-    "Possible contri.md",
-    "Pivot Table.md",
-    "PSP.md",
-    "React & Svelte.md",
-    "resume.md",
-    "Ruby.md",
-    "SRE articles.md",
-    "vmbackup.md",
     "Pasted image 20240417143616.png",
     "Pasted image 20240417143548.png",
     "Pasted image 20240417143524.png",
     "Pasted image 20240410171536.png",
     "Pasted image 20240410171526.png",
     "Pasted image 20240405113001.png",
-    "appender.png",
-    "LFX",
-    "Pasted image 20240320165218.png",
-    "Pasted image 20240320172622.png",
-    "Pasted image 20240320134447.png"
+    "LFX"
   ]
 }

@@ -69,10 +69,34 @@ Scenarios Tested (CPRO)
 | downloadDashboards (Init container)      | rocky8           | downloadDashboardsImage   |
 | file-merge                               | distroless       | grafanaFileMerge          |
 | test container, delete-secrets-container | rocky8(nano)     | helmDeleteImage           |
-| All jobs                                 | rocky8           | hookImage                          |
+| All jobs                                 | rocky8           | hookImage                 |
 
 
 ![[Pasted image 20231110155419.png]]
 
 
+
+
+implements logger.kitlog
+```go
+type CustomLogger struct {
+    // Define any configuration or dependencies needed for your logger
+}
+```
+
+```go
+func (l *CustomLogger) Log(keyvals ...interface{}) error {
+    // Implement your custom logging logic here
+    // For example, you can format and write logs to a file, database, or external service
+    // You may use libraries like logrus, zap, or the standard log package for this purpose
+    return nil // Or return an error if logging fails
+}
+```
+
+
+```go
+customLogger := &CustomLogger{
+        // Initialize any configuration or dependencies here
+    }
+```
 

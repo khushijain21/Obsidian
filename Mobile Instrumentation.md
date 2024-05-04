@@ -1,0 +1,1 @@
+OTel plan for client instrumentation - https://docs.google.com/document/d/13Z9CD-JlT_HQwx1qJnkkZnGSLe6qb67qHxQ3tu_pevM/edit
