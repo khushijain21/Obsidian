@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 10 - LFX Mentorship.md",
+                "file": "LFX/Week 10 - LFX Mentorship.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1d70ccd9b09164d1",
@@ -153,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 10 - LFX Mentorship.md",
+                "file": "LFX/Week 10 - LFX Mentorship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 10 - LFX Mentorship.md",
+                "file": "LFX/Week 10 - LFX Mentorship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 10 - LFX Mentorship.md"
+                "file": "LFX/Week 10 - LFX Mentorship.md"
               }
             }
           },
@@ -237,10 +236,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04c721237532acc7",
+  "active": "42f01b0dd339de28",
   "lastOpenFiles": [
     "How to use instrumented Ruby Logger.md",
-    "Week 10 - LFX Mentorship.md",
+    "LFX/Week 10 - LFX Mentorship.md",
     "Grafana contri.md",
     "O11y links.md",
     "Getting started with OpenTelemetry.md",
