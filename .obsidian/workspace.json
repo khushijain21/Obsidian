@@ -42,19 +42,43 @@
             }
           },
           {
-            "id": "7cc7ae0d33e72919",
+            "id": "f6f9f4f1c484cf33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LFX/Week 9 - LFX Mentorship.md",
+                "file": "Grafana contri.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a36fca1b11ffa00a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to use instrumented Ruby Logger.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04c721237532acc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 10 - LFX Mentorship.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -83,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "upstream",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LFX/Week 9 - LFX Mentorship.md",
+                "file": "Week 10 - LFX Mentorship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LFX/Week 9 - LFX Mentorship.md",
+                "file": "Week 10 - LFX Mentorship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LFX/Week 9 - LFX Mentorship.md"
+                "file": "Week 10 - LFX Mentorship.md"
               }
             }
           },
@@ -213,13 +237,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7cc7ae0d33e72919",
+  "active": "04c721237532acc7",
   "lastOpenFiles": [
-    "OOM Kill.md",
-    "LFX/Week 9 - LFX Mentorship.md",
-    "Demo (Image Flavor).md",
+    "How to use instrumented Ruby Logger.md",
+    "Week 10 - LFX Mentorship.md",
+    "Grafana contri.md",
+    "O11y links.md",
+    "Getting started with OpenTelemetry.md",
+    "RedHat Interview Process.md",
     "HBP 3.9.0.md",
+    "Why we might need zapcore.encoder.md",
+    "minikube automation.md",
     "OneLog.md",
+    "Excalidraw/Drawing 2024-05-06 14.16.13.excalidraw.md",
+    "LFX/Week 9 - LFX Mentorship.md",
+    "OOM Kill.md",
+    "Demo (Image Flavor).md",
     "Logging with SwiftLog.md",
     "Swift.md",
     "Excalidraw/Drawing 2024-05-02 17.25.33.excalidraw.md",
@@ -232,21 +265,12 @@
     "Excalidraw",
     "appender.png",
     "Untitled.canvas",
-    "Getting started with OpenTelemetry.md",
     "Pasted image 20240429123607.png",
     "Pasted image 20240429123514.png",
     "Mobile Observability.md",
     "Useful links.md",
     "General Topics.md",
     "LFX/Week6 - LFX Mentorship.md",
-    "LFX/Week 5 - LFX Mentorship.md",
-    "LFX/Week 4 - LFX Mentorship.md",
-    "LFX/Week 3 - LFX mentorship.md",
-    "LFX/Week 2 - LFX mentorship.md",
-    "LFX/Week 1 - LFX Opentelemetry.md",
-    "Grafana contri.md",
-    "Untitled.md",
-    "Buffer.md",
     "Pasted image 20240417143616.png",
     "Pasted image 20240417143548.png",
     "Pasted image 20240417143524.png",
