@@ -20,65 +20,31 @@
             }
           },
           {
-            "id": "a53315289e6461f0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-05-02 17.25.33.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "122d6f992e7a352e",
+            "id": "9bc77969bf884a1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HBP 3.9.0.md",
+                "file": "Swift.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f6f9f4f1c484cf33",
+            "id": "dad649e7376dab41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grafana contri.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a36fca1b11ffa00a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to use instrumented Ruby Logger.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04c721237532acc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LFX/Week 10 - LFX Mentorship.md",
+                "file": "LFX/Week 11 - LFX Mentorship.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1d70ccd9b09164d1",
@@ -152,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LFX/Week 10 - LFX Mentorship.md",
+                "file": "LFX/Week 11 - LFX Mentorship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LFX/Week 10 - LFX Mentorship.md",
+                "file": "LFX/Week 11 - LFX Mentorship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LFX/Week 10 - LFX Mentorship.md"
+                "file": "LFX/Week 11 - LFX Mentorship.md"
               }
             }
           },
@@ -236,25 +203,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "42f01b0dd339de28",
+  "active": "dad649e7376dab41",
   "lastOpenFiles": [
+    "HBP Istio Gateway.md",
+    "LFX/Week 11 - LFX Mentorship.md",
+    "Swift.md",
+    "Logging with SwiftLog.md",
+    "HBP 3.9.0 - Helm Template.md",
+    "OneLog.md",
+    "Excalidraw/Drawing 2024-05-02 17.25.33.excalidraw.md",
+    "HBP 3.9.0.md",
+    "Grafana contri.md",
     "How to use instrumented Ruby Logger.md",
     "LFX/Week 10 - LFX Mentorship.md",
-    "Grafana contri.md",
     "O11y links.md",
     "Getting started with OpenTelemetry.md",
     "RedHat Interview Process.md",
-    "HBP 3.9.0.md",
     "Why we might need zapcore.encoder.md",
     "minikube automation.md",
-    "OneLog.md",
     "Excalidraw/Drawing 2024-05-06 14.16.13.excalidraw.md",
     "LFX/Week 9 - LFX Mentorship.md",
     "OOM Kill.md",
     "Demo (Image Flavor).md",
-    "Logging with SwiftLog.md",
-    "Swift.md",
-    "Excalidraw/Drawing 2024-05-02 17.25.33.excalidraw.md",
     "LFX/Week8 - LFX Mentorship.md",
     "Excalidraw/Drawing 2024-05-01 12.54.49.excalidraw.md",
     "Excalidraw/Drawing 2024-04-29 15.54.59.excalidraw.md",
@@ -267,9 +237,6 @@
     "Pasted image 20240429123607.png",
     "Pasted image 20240429123514.png",
     "Mobile Observability.md",
-    "Useful links.md",
-    "General Topics.md",
-    "LFX/Week6 - LFX Mentorship.md",
     "Pasted image 20240417143616.png",
     "Pasted image 20240417143548.png",
     "Pasted image 20240417143524.png",
