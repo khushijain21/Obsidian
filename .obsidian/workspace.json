@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b192d3a8617bef68",
+            "id": "ddfe49b881a89d2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OneLog.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bc77969bf884a1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Swift.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dad649e7376dab41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LFX/Week 11 - LFX Mentorship.md",
+                "file": "LFX/Week 12 - LFX Mentorship.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "upstream",
+                "query": "sync.Pool",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LFX/Week 11 - LFX Mentorship.md",
+                "file": "LFX/Week 12 - LFX Mentorship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LFX/Week 11 - LFX Mentorship.md",
+                "file": "LFX/Week 12 - LFX Mentorship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LFX/Week 11 - LFX Mentorship.md"
+                "file": "LFX/Week 12 - LFX Mentorship.md"
               }
             }
           },
@@ -203,14 +178,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dad649e7376dab41",
+  "active": "ddfe49b881a89d2d",
   "lastOpenFiles": [
-    "HBP Istio Gateway.md",
+    "Symbolik link script.md",
+    "LFX/Week 12 - LFX Mentorship.md",
+    "GO.md",
     "LFX/Week 11 - LFX Mentorship.md",
     "Swift.md",
+    "OneLog.md",
+    "Untitled 1.md",
+    "Excalidraw/Drawing 2024-05-23 11.40.05.excalidraw.md",
+    "HBP Istio Gateway.md",
+    "Excalidraw/Drawing 2024-05-21 12.21.53.excalidraw.md",
     "Logging with SwiftLog.md",
     "HBP 3.9.0 - Helm Template.md",
-    "OneLog.md",
     "Excalidraw/Drawing 2024-05-02 17.25.33.excalidraw.md",
     "HBP 3.9.0.md",
     "Grafana contri.md",
@@ -225,18 +206,12 @@
     "LFX/Week 9 - LFX Mentorship.md",
     "OOM Kill.md",
     "Demo (Image Flavor).md",
-    "LFX/Week8 - LFX Mentorship.md",
-    "Excalidraw/Drawing 2024-05-01 12.54.49.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-29 15.54.59.excalidraw.md",
-    "Grafana & VM OSS tickets.md",
-    "Mobile Instrumentation.md",
     "Pasted Image 20240429155632_773.png",
     "Excalidraw",
     "appender.png",
     "Untitled.canvas",
     "Pasted image 20240429123607.png",
     "Pasted image 20240429123514.png",
-    "Mobile Observability.md",
     "Pasted image 20240417143616.png",
     "Pasted image 20240417143548.png",
     "Pasted image 20240417143524.png",
