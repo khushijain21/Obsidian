@@ -5,7 +5,7 @@
 
 - Docker a little more informative with project [The Docker Handbook – Learn Docker for Beginners (freecodecamp.org)](https://www.freecodecamp.org/news/the-docker-handbook/)
 
-- TLDR - [PromCon Online 2020 - TSDB WTF, Ian Billett, Improbable - YouTube](https://www.youtube.com/watch?v=zTH7DKAWqHc&t=3s)
+- TLDR - [PromCon Online 2020 - TSDB WTF, Ian Billett, Improbable - YouTube](https://www.youtube.com/watch?v=zTH7DKAWqHc&t=3s
 
 - Ingress Controller - [Kubernetes Ingress Tutorial: Beginners Series (devopscube.com)](https://devopscube.com/kubernetes-ingress-tutorial/)
 
@@ -35,10 +35,7 @@
 - Exemplars: https://grafana.com/docs/grafana/latest/fundamentals/exemplars/
 - SAGA design pattern https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/saga/saga
 - Kubernetes Architecture https://devopscube.com/kubernetes-architecture-explained/
-- https://regexlearn.com/ - amazing website for regex
-- 
-CRONJOB
-
+- https://regexlearn.com/ - amazing website for regex 
 - Helm functions and pipelines https://helm.sh/docs/chart_template_guide/functions_and_pipelines/
 - Flow Control in HELM https://helm.sh/docs/chart_template_guide/control_structures/
 

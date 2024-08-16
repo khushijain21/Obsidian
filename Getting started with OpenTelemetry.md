@@ -13,3 +13,5 @@ Putting it together
 - OTel Collector Architecture by [Signoz](Observability Architecture and OTel Collector [Redhat](https://www.redhat.com/en/blog/red-hat-build-opentelemetry-reaches-general-availability)
 - You can run OTel Demo to see it all working together [Demo](https://aws.plainenglish.io/a-deep-dive-into-opentelemetry-running-the-opentelemetry-demo-7ec4fd436136)
 - Best Practices for OTel Collector by [Grafana](https://grafana.com/blog/2023/12/18/opentelemetry-best-practices-a-users-guide-to-getting-started-with-opentelemetry/)
+
+

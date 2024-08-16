@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5190c8a334b0a8fe",
+        "id": "2ffe2f09243797c4",
         "type": "tabs",
         "children": [
           {
-            "id": "ddfe49b881a89d2d",
+            "id": "94af564fab014201",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LFX/Week 12 - LFX Mentorship.md",
+                "file": "How to bring up Grafana in HTTPS and Grafana Image Renderer service in HTTP mode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fff5ca72ed82f20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resignation Letter.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sync.Pool",
+                "query": "nokia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LFX/Week 12 - LFX Mentorship.md",
+                "file": "Resignation Letter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LFX/Week 12 - LFX Mentorship.md",
+                "file": "Resignation Letter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LFX/Week 12 - LFX Mentorship.md"
+                "file": "Resignation Letter.md"
               }
             }
           },
@@ -159,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,46 +191,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ddfe49b881a89d2d",
+  "active": "2fff5ca72ed82f20",
   "lastOpenFiles": [
-    "Symbolik link script.md",
-    "LFX/Week 12 - LFX Mentorship.md",
-    "GO.md",
-    "LFX/Week 11 - LFX Mentorship.md",
-    "Swift.md",
-    "OneLog.md",
-    "Untitled 1.md",
-    "Excalidraw/Drawing 2024-05-23 11.40.05.excalidraw.md",
-    "HBP Istio Gateway.md",
-    "Excalidraw/Drawing 2024-05-21 12.21.53.excalidraw.md",
+    "How to bring up Grafana in HTTPS and Grafana Image Renderer service in HTTP mode.md",
+    "Resignation Letter.md",
+    "Insights from LFX Mentorship program - with OpenTelemetry.md",
+    "beyla.md",
+    "Observability stack.md",
+    "vmctl.md",
+    "Typescript.md",
+    "Mobile Instrumentation.md",
+    "syslog in VM.md",
+    "Ticket Update Strategy.md",
     "Logging with SwiftLog.md",
-    "HBP 3.9.0 - Helm Template.md",
-    "Excalidraw/Drawing 2024-05-02 17.25.33.excalidraw.md",
-    "HBP 3.9.0.md",
-    "Grafana contri.md",
+    "LFX Mentorship - opentelemetry.md",
+    "Istio Gateway 2 - Shared Non HTTP Gateway.md",
+    "Internal Server Error.md",
     "How to use instrumented Ruby Logger.md",
-    "LFX/Week 10 - LFX Mentorship.md",
-    "O11y links.md",
+    "How to setup syslog server in TLS mode (locally).md",
+    "How to obtain pvc percentage.md",
+    "How to implement a custom zap.Core.md",
+    "Grafana contri.md",
+    "GRAFANA IMAGE RENDERER.md",
+    "Grafana gf-form.md",
+    "Grafana & VM OSS tickets.md",
+    "GO.md",
     "Getting started with OpenTelemetry.md",
-    "RedHat Interview Process.md",
-    "Why we might need zapcore.encoder.md",
-    "minikube automation.md",
-    "Excalidraw/Drawing 2024-05-06 14.16.13.excalidraw.md",
-    "LFX/Week 9 - LFX Mentorship.md",
-    "OOM Kill.md",
-    "Demo (Image Flavor).md",
-    "Pasted Image 20240429155632_773.png",
-    "Excalidraw",
+    "Generic Io.writer for logging bridge.md",
+    "Distributed systems.md",
     "appender.png",
-    "Untitled.canvas",
-    "Pasted image 20240429123607.png",
-    "Pasted image 20240429123514.png",
-    "Pasted image 20240417143616.png",
-    "Pasted image 20240417143548.png",
-    "Pasted image 20240417143524.png",
-    "Pasted image 20240410171536.png",
-    "Pasted image 20240410171526.png",
+    "Pasted image 20240221170025.png",
+    "Pasted image 20230407213128.png",
+    "Pasted image 20230407213416.png",
+    "Pasted image 20230407214124.png",
+    "Pasted image 20230503103931.png",
+    "Pasted image 20231213111839.png",
+    "Pasted image 20240309164013.png",
+    "Pasted image 20240308152543.png",
     "Pasted image 20240405113001.png",
+    "Untitled.canvas",
+    "Excalidraw",
     "LFX"
   ]
 }

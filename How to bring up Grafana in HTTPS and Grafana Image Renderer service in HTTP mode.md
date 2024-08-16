@@ -89,6 +89,6 @@ And finally run
 docker-compose up
 ```
 
-And now your Grafana and Graafana image Renderer is up and running
+And now your Grafana and Grafana image Renderer is up and running
 
 This blog is only a compilation of many sites I had to visit to bring this config up, and may help new users do this quicker. 

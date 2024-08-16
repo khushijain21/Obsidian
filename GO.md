@@ -8,6 +8,8 @@ What are contexts in go-lang: https://www.digitalocean.com/community/tutorials/h
 How to run multiple functions concurrently: 
 https://www.digitalocean.com/community/tutorials/how-to-run-multiple-functions-concurrently-in-go - from digital ocean 
 
+https://golangdocs.com/channels-in-golang  - channels in go
+
 https://last9.io/blog/how-to-instrument-golang-app-using-opentelemetry-tutorial-best-practices/ - how to implement open telemetry for go application
 
 https://www.honeycomb.io/blog/ask-miss-o11y-making-sense-of-open-telemetry-tracerprovider - difference b/w tracer and tracerprovider
@@ -38,8 +40,15 @@ https://blog.mike.norgate.xyz/unlocking-go-slice-performance-navigating-sync-poo
 
 https://medium.com/@antoharyanto/serious-impact-slice-in-golang-for-speed-and-memory-usage-c0997f44eb76   - slice performance 1
 
+ https://www.digitalocean.com/community/tutorials/how-to-use-templates-in-go  - how to use templates in go
+ 
+ https://gobyexample.com/worker-pools  - worker pools
 
+
+https://www.atatus.com/blog/go-channels-overview/  - go channels 
+
+
+https://gobyexample.com/  - 
 good example of type adapter:
-![[Pasted image 20240318212736.png]]
 
 
