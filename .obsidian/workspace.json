@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to bring up Grafana in HTTPS and Grafana Image Renderer service in HTTP mode.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fff5ca72ed82f20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resignation Letter.md",
+                "file": "Observability stack.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resignation Letter.md",
+                "file": "Observability stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resignation Letter.md",
+                "file": "Observability stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resignation Letter.md"
+                "file": "Observability stack.md"
               }
             }
           },
@@ -191,7 +178,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2fff5ca72ed82f20",
+  "active": "94af564fab014201",
   "lastOpenFiles": [
     "How to bring up Grafana in HTTPS and Grafana Image Renderer service in HTTP mode.md",
     "Resignation Letter.md",
