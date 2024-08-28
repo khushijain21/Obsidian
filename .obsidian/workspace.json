@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "29850f45630fb400",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Getting started with OpenTelemetry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -159,12 +171,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,32 +191,32 @@
   },
   "active": "94af564fab014201",
   "lastOpenFiles": [
-    "How to bring up Grafana in HTTPS and Grafana Image Renderer service in HTTP mode.md",
-    "Resignation Letter.md",
-    "Insights from LFX Mentorship program - with OpenTelemetry.md",
-    "beyla.md",
-    "Observability stack.md",
-    "vmctl.md",
-    "Typescript.md",
-    "Mobile Instrumentation.md",
-    "syslog in VM.md",
-    "Ticket Update Strategy.md",
-    "Logging with SwiftLog.md",
-    "LFX Mentorship - opentelemetry.md",
-    "Istio Gateway 2 - Shared Non HTTP Gateway.md",
-    "Internal Server Error.md",
-    "How to use instrumented Ruby Logger.md",
-    "How to setup syslog server in TLS mode (locally).md",
-    "How to obtain pvc percentage.md",
-    "How to implement a custom zap.Core.md",
-    "Grafana contri.md",
-    "GRAFANA IMAGE RENDERER.md",
-    "Grafana gf-form.md",
-    "Grafana & VM OSS tickets.md",
-    "GO.md",
     "Getting started with OpenTelemetry.md",
     "Generic Io.writer for logging bridge.md",
+    "How to setup syslog server in TLS mode (locally).md",
+    "How to use instrumented Ruby Logger.md",
+    "LFX Mentorship - opentelemetry.md",
+    "Mobile Observability.md",
+    "Observability stack.md",
+    "Ruby.md",
+    "Typescript.md",
+    "Zap.md",
+    "Business Travel Itinerary.md",
+    "LFX/List of Log Appenders Implemented.md",
+    "Backup & Restore Documentation.md",
+    "Javascript useful links.md",
+    "How to bring up Grafana in HTTPS and Grafana Image Renderer service in HTTP mode.md",
+    "Grafana reading material.md",
+    "Grafana contri.md",
+    "Grafana & VM OSS tickets.md",
+    "GO.md",
+    "ebpf.md",
     "Distributed systems.md",
+    "Data-intensive applications.md",
+    "Cert Manager.md",
+    "Buffer.md",
+    "Birds.md",
+    "beyla.md",
     "appender.png",
     "Pasted image 20240221170025.png",
     "Pasted image 20230407213128.png",
