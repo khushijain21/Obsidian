@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Observability stack.md",
+                "file": "Backup & Restore Documentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1d70ccd9b09164d1",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Observability stack.md",
+                "file": "Backup & Restore Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Observability stack.md",
+                "file": "Backup & Restore Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Observability stack.md"
+                "file": "Backup & Restore Documentation.md"
               }
             }
           },
@@ -191,17 +190,22 @@
   },
   "active": "94af564fab014201",
   "lastOpenFiles": [
+    "Observability stack.md",
+    "Mobile Observability.md",
+    "O11y links.md",
+    "React & Svelte.md",
+    "SRE articles.md",
+    "Ruby.md",
+    "Swift.md",
+    "Typescript.md",
+    "Useful links.md",
+    "Business Travel Itinerary.md",
     "Getting started with OpenTelemetry.md",
     "Generic Io.writer for logging bridge.md",
     "How to setup syslog server in TLS mode (locally).md",
     "How to use instrumented Ruby Logger.md",
     "LFX Mentorship - opentelemetry.md",
-    "Mobile Observability.md",
-    "Observability stack.md",
-    "Ruby.md",
-    "Typescript.md",
     "Zap.md",
-    "Business Travel Itinerary.md",
     "LFX/List of Log Appenders Implemented.md",
     "Backup & Restore Documentation.md",
     "Javascript useful links.md",
@@ -212,11 +216,6 @@
     "GO.md",
     "ebpf.md",
     "Distributed systems.md",
-    "Data-intensive applications.md",
-    "Cert Manager.md",
-    "Buffer.md",
-    "Birds.md",
-    "beyla.md",
     "appender.png",
     "Pasted image 20240221170025.png",
     "Pasted image 20230407213128.png",
