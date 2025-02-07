@@ -29,9 +29,11 @@ When `agent.monitoring.logs` is true, a filebeat process is created with followi
 	   
 When `agent.monitoring.metrics:true`,  2 metricbeat instances are created
 	- One metricbeat with following inputs using the beat module
-	  ![[Pasted image 20250206135553.png]]
+	  <img width="682" alt="Pasted image 20250206135553" src="https://github.com/user-attachments/assets/eaa4710a-de2e-47e8-906a-0644d5513af6" />
+
 	- Another with the following inputs using the http module
-	  ![[Pasted image 20250206135519.png]]
+	  <img width="947" alt="Pasted image 20250206135519" src="https://github.com/user-attachments/assets/ec744ebd-e5c5-482f-a0be-51c5f49cff99" />
+
 
 Any additonal inputs run by elastic-agent are also appropriately added to this list. Note: this diagram is for when no inputs are configured and only `agent.monitoring` is enabled. 
 
