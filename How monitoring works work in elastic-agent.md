@@ -30,7 +30,6 @@ When `agent.monitoring.logs` is true, a filebeat process is created with followi
 When `agent.monitoring.metrics:true`,  2 metricbeat instances are created
 	- One metricbeat with following inputs using the beat module
 	  <img width="682" alt="Pasted image 20250206135553" src="https://github.com/user-attachments/assets/eaa4710a-de2e-47e8-906a-0644d5513af6" />
-
 	- Another with the following inputs using the http module
 	  <img width="947" alt="Pasted image 20250206135519" src="https://github.com/user-attachments/assets/ec744ebd-e5c5-482f-a0be-51c5f49cff99" />
 
