@@ -28,7 +28,7 @@ agent.monitoring:
 When `agent.monitoring.logs` is true, a filebeat process is created with following inputs
 - a filestream input to monitor agent logs
 - a filestream input for service components that define a log path
-	   Code Ref: [injectLogsInput](https://github.com/khushijain21/elastic-agent/blob/main/internal/pkg/agent/application/monitoring/v1_monitor.go#L317)
+- Code Ref: [injectLogsInput](https://github.com/khushijain21/elastic-agent/blob/main/internal/pkg/agent/application/monitoring/v1_monitor.go#L317)
 	   
  
 When `agent.monitoring.metrics:true`,  2 metricbeat instances are created
