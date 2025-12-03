@@ -4,7 +4,7 @@ But air pollution is not a unique problem to Delhi. 11 major cities in India has
 
 Although, we might believe Belgaum is doing better as a Tier-2 city but the data looks in the opposite direction. The average AQI has increased by 19% every year since 2020.  In 2022, Belgaum was ranked the most polluted city in Karnataka, ahead of Bengaluru.
 
-And December, so far, has experienced an average AQI of 150 which is severally "unhealthy" by WHO standards. This is equivalent to smoking 3.3 cigarettes a day. At this level, "everyone" experiences adverse effects and not just sensitive groups. To put this number into perspective, New York usually has an AQI below 16, so if you ever wondered why skies abroad look so "blue", now you know why.
+And December, so far, has experienced an average AQI of 150 which is severely "unhealthy" by WHO standards. This is equivalent to smoking 3.3 cigarettes a day. At this level, "everyone" experiences adverse effects and not just sensitive groups. To put this number into perspective, New York usually has an AQI below 16, so if you ever wondered why skies abroad look so "blue", now you know why.
 
 The major pollutant is PM10 and PM2.5 caused by vehicular emissions, grass burning,  construction dust and  industrial emissions. The long term effects of breathing air at this level can cause permanent inflammation of the lungs, hypertension, cognitive decline etc.
 
