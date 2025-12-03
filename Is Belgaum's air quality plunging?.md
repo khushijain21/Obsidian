@@ -1,6 +1,6 @@
 Lately Delhi, our national capital, has come to be known as the gas chamber or Chernobyl of India because of its terrible state of air quality.
 
-But air pollution is not a unique problem to Delhi. 11 major cities in India has not experienced "good" air  in the last decade. "good" air is when AQI (air quality index) is below 50. In the world's top 100 most polluted cities in the world, 94 are from India. Somehow, breathing toxic air has become the new normal.
+But air pollution is not a unique problem to Delhi. 11 major cities in India has not experienced "good" air  in the last decade. "good" air is when AQI (air quality index) is below 50. In the list of world's 100 most polluted cities, 94 are from India. Somehow, breathing toxic air has become the new normal.
 
 We might believe Belgaum is doing better as a Tier-2 city but the data looks in the opposite direction. The average AQI has increased by 19% every year since 2020. And in 2022, Belgaum was ranked the most polluted city in Karnataka, ahead of Bengaluru.
 
