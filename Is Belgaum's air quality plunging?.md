@@ -1,4 +1,4 @@
-Lately Delhi, our national capital, has come to be known as the gas chamber or Chernobyl of India because of its seemingly impossible to fix air quality. We have all heard it in the news every year - the governments have come and gone but Delhi's air has only plunged since. And citizens are either punished for protesting at India gate or die slow death by simply existing in the city. 
+Lately Delhi, our national capital, has come to be known as the gas chamber or Chernobyl of India because of its seemingly impossible to fix air pollution. We have all heard it in the news every year -  governments have come and gone but Delhi's air has only plunged since. And citizens are either punished for protesting at India gate or choose slow death by simply living in the city. 
 
 But air pollution is not a unique problem to Delhi. 11 major cities in India has not experienced "good" air  in the last decade. "good" air is when AQI (air quality index) is below 50. In the list of world's 100 most polluted cities, 94 are from India. Somehow, breathing toxic air has become the new normal in this country.
 
@@ -17,7 +17,6 @@ This problem requires a multi pronged solution and nobody deserves to breathe to
 - Construction sites must be adequately covered to prevent dust out. Push for stricter patrolling to ensures construction sites meets compliance.
 - Do not burn Crackers
 - Talk more about it to your local authorities, political leaders and change-makers. 
-
 
 
 Sources:
