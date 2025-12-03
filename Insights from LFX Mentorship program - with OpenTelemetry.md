@@ -36,3 +36,7 @@ For new contributions:
 
 How can we improve diversity
 - Diverse recruitment is what I can think for now
+
+
+caves of steel
+foundation
